@@ -17,7 +17,7 @@ wordcloud
 # Finance & Technical Analysis
 yfinance
 pynance
-
+ta-lib==0.6.3
 
 # Notebook & Interactive
 jupyter
