@@ -1,0 +1,32 @@
+# Core Data & Utilities
+pandas 
+numpy 
+matplotlib
+seaborn
+scikit-learn
+
+# NLP & Sentiment Analysis
+nltk
+textblob
+spacy
+
+# Topic Modeling
+gensim
+wordcloud
+
+# Finance & Technical Analysis
+yfinance
+pynance
+
+
+# Notebook & Interactive
+jupyter
+notebook
+ipykernel
+
+# Date/Time Handling
+python-dateutil
+
+# Optional Dev & Testing
+pytest
+black
