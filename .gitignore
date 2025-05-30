@@ -1,0 +1,35 @@
+# System files
+.DS_Store
+Thumbs.db
+
+# Python environment and dependencies
+venv/
+*.pyc
+__pycache__/
+.env
+
+# IDE/Editor-specific files
+.vscode/
+.idea/
+*.swp
+
+# Logs & temporary files
+logs/
+*.log
+*.tmp
+*.bak
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Git Workflow & CI/CD
+.github/workflows/*.yml
+
+# Data files
+*.csv
+*.json
+*.db
+
+# Compiled output
+*.exe
+*.dll
